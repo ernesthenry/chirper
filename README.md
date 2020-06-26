@@ -1,8 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+This project was built with react, redux,  and react-redux
+## Project Setup
 
 In the project directory, you can run:
+
+### `npm install`
+
+Then run 
 
 ### `npm start`
 
