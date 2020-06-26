@@ -1,4 +1,4 @@
-This project was built with react, redux,  and react-redux
+This is a Twitter clone app built with react, redux,  and react-redux
 ## Project Setup
 
 In the project directory, you can run:
