@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chirper/static/css/main.37823b9a.chunk.css",
+    "main.js": "/chirper/static/js/main.63cfc3c9.chunk.js",
+    "main.js.map": "/chirper/static/js/main.63cfc3c9.chunk.js.map",
+    "runtime-main.js": "/chirper/static/js/runtime-main.56b41dcb.js",
+    "runtime-main.js.map": "/chirper/static/js/runtime-main.56b41dcb.js.map",
+    "static/js/2.df6716b4.chunk.js": "/chirper/static/js/2.df6716b4.chunk.js",
+    "static/js/2.df6716b4.chunk.js.map": "/chirper/static/js/2.df6716b4.chunk.js.map",
+    "index.html": "/chirper/index.html",
+    "precache-manifest.1b286c01a446b5e1ee51ff9a5c1182bd.js": "/chirper/precache-manifest.1b286c01a446b5e1ee51ff9a5c1182bd.js",
+    "service-worker.js": "/chirper/service-worker.js",
+    "static/css/main.37823b9a.chunk.css.map": "/chirper/static/css/main.37823b9a.chunk.css.map",
+    "static/js/2.df6716b4.chunk.js.LICENSE.txt": "/chirper/static/js/2.df6716b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b41dcb.js",
+    "static/js/2.df6716b4.chunk.js",
+    "static/css/main.37823b9a.chunk.css",
+    "static/js/main.63cfc3c9.chunk.js"
+  ]
+}
